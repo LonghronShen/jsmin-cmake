@@ -7,7 +7,7 @@ Adding CMake support for jsmin made by Douglas Crockford.
 Just clone this repo, and execute these commands:
 
 ```shell
-git clone https://github.com/LonghronShen/jsmin-cmake.git
+git clone --recurse-submodules https://github.com/LonghronShen/jsmin-cmake.git
 cd jsmin-cmake && mkdir build && cd build
 cmake .. && make
 ```
