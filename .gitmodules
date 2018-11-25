@@ -1,0 +1,3 @@
+[submodule "jsmin"]
+	path = jsmin
+	url = https://github.com/douglascrockford/JSMin.git
